@@ -1,5 +1,5 @@
 db_login = "postgres"
-db_password = "042581"
+db_password = "postgres"
 db_port = 5432
 db_host = "localhost"
 db_name = "book_sales"
